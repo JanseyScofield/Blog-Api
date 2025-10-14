@@ -1,4 +1,4 @@
-package pweb.api.blog.model;
+package pweb.api.blog.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

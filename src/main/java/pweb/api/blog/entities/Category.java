@@ -1,4 +1,4 @@
-package pweb.api.blog.model;
+package pweb.api.blog.entities;
 
 public enum Category {
 	POLITICA,
